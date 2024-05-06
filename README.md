@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao nosso perfil 💙
 
-<!--
-**SilveiraCoelho/SilveiraCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nosso nome é Turma Silveira
 
-Here are some ideas to get you started:
+- Estamos estudando no [Alura](https:alura.com.br) 
+- Estamos nos desenvolvendo na linguagem JavaScript
+- Utilizamos esse espaço para organização e compartilhamento dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contado conosco
+
+graciana.si@gmail.com
+
+![](https://media1.tenor.com/m/rv20dFusX-QAAAAC/love.gif)
